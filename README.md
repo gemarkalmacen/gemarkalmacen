@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-👋 Hi, I’m @gemarkalmacen
-👀 I’m interested in frontend/backend stack
+- 👋 Hi, I’m @gemarkalmacen
+- 👀 I’m interested in frontend/backend stack
 🌱 I’m currently learning vueJs
 💞️ I’m looking to collaborate on reactJs
 📫 How to reach me on my email account gmrk08@gmail.com
