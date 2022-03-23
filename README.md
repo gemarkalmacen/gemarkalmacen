@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Hi, I’m @gemarkalmacen
+👀 I’m interested in frontend/backend stack
+🌱 I’m currently learning vueJs
+💞️ I’m looking to collaborate on reactJs
+📫 How to reach me on my email account gmrk08@gmail.com
+
 <!--
 **gemarkalmacen/gemarkalmacen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
