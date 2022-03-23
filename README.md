@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 - 👋 Hi, I’m @gemarkalmacen
 - 👀 I’m interested in frontend/backend stack
